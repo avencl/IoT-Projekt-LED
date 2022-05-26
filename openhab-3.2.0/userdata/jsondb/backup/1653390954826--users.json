@@ -1,0 +1,26 @@
+{
+  "fkozjak": {
+    "class": "org.openhab.core.auth.ManagedUser",
+    "value": {
+      "name": "fkozjak",
+      "passwordHash": "mFOmxr2surtvUrnNbhQs+6QSpR9Xb00Q76Uuk4gugkCTMKvyGMKzM/f1PR5bNMAXIvKg0WvM0So7FWaKDjyBYQ\u003d\u003d",
+      "passwordSalt": "x9VUZUsM75G/U8R70kF+h+S9j4p53rHB6fK5qjjQR29YfQClh/b0F+TzkxZEic6EQ3TXIRxBKpjZCfeTYYTtXA\u003d\u003d",
+      "roles": [
+        "administrator"
+      ],
+      "sessions": [
+        {
+          "sessionId": "31e2ee16-3de5-4b82-a1b7-d24c4e3a812e",
+          "refreshToken": "2bf9f6277ae946dcb4cd7174df75b00f",
+          "createdTime": "May 24, 2022, 11:34:31 AM",
+          "lastRefreshTime": "May 24, 2022, 1:15:54 PM",
+          "clientId": "http://localhost:8080",
+          "redirectUri": "http://localhost:8080",
+          "scope": "admin",
+          "sessionCookie": true
+        }
+      ],
+      "apiTokens": []
+    }
+  }
+}

@@ -1,0 +1,911 @@
+{
+  "hue:0210:0017884b084f:6": {
+    "class": "org.openhab.core.thing.internal.ThingImpl",
+    "value": {
+      "label": "Hue color lamp 1",
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "0017884b084f"
+        ],
+        "uid": "hue:bridge:0017884b084f"
+      },
+      "channels": [
+        {
+          "acceptedItemType": "Color",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "0017884b084f",
+              "6",
+              "color"
+            ],
+            "uid": "hue:0210:0017884b084f:6:color"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color"
+            ],
+            "uid": "system:color"
+          },
+          "label": "Color",
+          "description": "Controls the color of the light",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "Control",
+            "Light"
+          ]
+        },
+        {
+          "acceptedItemType": "Dimmer",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "0017884b084f",
+              "6",
+              "color_temperature"
+            ],
+            "uid": "hue:0210:0017884b084f:6:color_temperature"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature"
+            ],
+            "uid": "system:color-temperature"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light from 0 (cold) to 100 (warm)",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "Number",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "0017884b084f",
+              "6",
+              "color_temperature_abs"
+            ],
+            "uid": "hue:0210:0017884b084f:6:color_temperature_abs"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature-abs"
+            ],
+            "uid": "system:color-temperature-abs"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light in Kelvin",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "0017884b084f",
+              "6",
+              "alert"
+            ],
+            "uid": "hue:0210:0017884b084f:6:alert"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "alert"
+            ],
+            "uid": "hue:alert"
+          },
+          "label": "Alert",
+          "description": "The alert channel allows a temporary change to the bulb’s state.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "Switch",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "0017884b084f",
+              "6",
+              "effect"
+            ],
+            "uid": "hue:0210:0017884b084f:6:effect"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "effect"
+            ],
+            "uid": "hue:effect"
+          },
+          "label": "Color Loop",
+          "description": "The effect channel allows putting the bulb in a color looping mode.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "fadetime": 400,
+          "lightId": "6"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "67.88.1",
+        "modelId": "LCT007",
+        "productName": "Hue color lamp",
+        "uniqueId": "00:17:88:01:10:2a:d7:64-0b",
+        "vendor": "Signify Netherlands B.V."
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "0210",
+          "0017884b084f",
+          "6"
+        ],
+        "uid": "hue:0210:0017884b084f:6"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "0210"
+        ],
+        "uid": "hue:0210"
+      }
+    }
+  },
+  "hue:0210:ecb5fa1b708d:1": {
+    "class": "org.openhab.core.thing.internal.ThingImpl",
+    "value": {
+      "label": "Hue color 1",
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "ecb5fa1b708d"
+        ],
+        "uid": "hue:bridge:ecb5fa1b708d"
+      },
+      "channels": [
+        {
+          "acceptedItemType": "Color",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "1",
+              "color"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:1:color"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color"
+            ],
+            "uid": "system:color"
+          },
+          "label": "Color",
+          "description": "Controls the color of the light",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "Control",
+            "Light"
+          ]
+        },
+        {
+          "acceptedItemType": "Dimmer",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "1",
+              "color_temperature"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:1:color_temperature"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature"
+            ],
+            "uid": "system:color-temperature"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light from 0 (cold) to 100 (warm)",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "Number",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "1",
+              "color_temperature_abs"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:1:color_temperature_abs"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature-abs"
+            ],
+            "uid": "system:color-temperature-abs"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light in Kelvin",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "1",
+              "alert"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:1:alert"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "alert"
+            ],
+            "uid": "hue:alert"
+          },
+          "label": "Alert",
+          "description": "The alert channel allows a temporary change to the bulb’s state.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "Switch",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "1",
+              "effect"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:1:effect"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "effect"
+            ],
+            "uid": "hue:effect"
+          },
+          "label": "Color Loop",
+          "description": "The effect channel allows putting the bulb in a color looping mode.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "fadetime": 400,
+          "lightId": "1"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "1.88.1",
+        "modelId": "LCT015",
+        "productName": "Hue color lamp",
+        "uniqueId": "00:17:88:01:04:33:4d:9e-0b",
+        "vendor": "Signify Netherlands B.V."
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "0210",
+          "ecb5fa1b708d",
+          "1"
+        ],
+        "uid": "hue:0210:ecb5fa1b708d:1"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "0210"
+        ],
+        "uid": "hue:0210"
+      }
+    }
+  },
+  "hue:0210:ecb5fa1b708d:2": {
+    "class": "org.openhab.core.thing.internal.ThingImpl",
+    "value": {
+      "label": "Hue color 2",
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "ecb5fa1b708d"
+        ],
+        "uid": "hue:bridge:ecb5fa1b708d"
+      },
+      "channels": [
+        {
+          "acceptedItemType": "Color",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "2",
+              "color"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:2:color"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color"
+            ],
+            "uid": "system:color"
+          },
+          "label": "Color",
+          "description": "Controls the color of the light",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "Control",
+            "Light"
+          ]
+        },
+        {
+          "acceptedItemType": "Dimmer",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "2",
+              "color_temperature"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:2:color_temperature"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature"
+            ],
+            "uid": "system:color-temperature"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light from 0 (cold) to 100 (warm)",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "Number",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "2",
+              "color_temperature_abs"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:2:color_temperature_abs"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature-abs"
+            ],
+            "uid": "system:color-temperature-abs"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light in Kelvin",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "2",
+              "alert"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:2:alert"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "alert"
+            ],
+            "uid": "hue:alert"
+          },
+          "label": "Alert",
+          "description": "The alert channel allows a temporary change to the bulb’s state.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "Switch",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "2",
+              "effect"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:2:effect"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "effect"
+            ],
+            "uid": "hue:effect"
+          },
+          "label": "Color Loop",
+          "description": "The effect channel allows putting the bulb in a color looping mode.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "fadetime": 400,
+          "lightId": "2"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "1.88.1",
+        "modelId": "LCT015",
+        "productName": "Hue color lamp",
+        "uniqueId": "00:17:88:01:04:33:61:66-0b",
+        "vendor": "Signify Netherlands B.V."
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "0210",
+          "ecb5fa1b708d",
+          "2"
+        ],
+        "uid": "hue:0210:ecb5fa1b708d:2"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "0210"
+        ],
+        "uid": "hue:0210"
+      }
+    }
+  },
+  "hue:0210:ecb5fa1b708d:3": {
+    "class": "org.openhab.core.thing.internal.ThingImpl",
+    "value": {
+      "label": "Hue lightstrip plus 1",
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "ecb5fa1b708d"
+        ],
+        "uid": "hue:bridge:ecb5fa1b708d"
+      },
+      "channels": [
+        {
+          "acceptedItemType": "Color",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "3",
+              "color"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:3:color"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color"
+            ],
+            "uid": "system:color"
+          },
+          "label": "Color",
+          "description": "Controls the color of the light",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "Control",
+            "Light"
+          ]
+        },
+        {
+          "acceptedItemType": "Dimmer",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "3",
+              "color_temperature"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:3:color_temperature"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature"
+            ],
+            "uid": "system:color-temperature"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light from 0 (cold) to 100 (warm)",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "Number",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "3",
+              "color_temperature_abs"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:3:color_temperature_abs"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "system",
+              "color-temperature-abs"
+            ],
+            "uid": "system:color-temperature-abs"
+          },
+          "label": "Color Temperature",
+          "description": "Controls the color temperature of the light in Kelvin",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [
+            "ColorTemperature",
+            "Control"
+          ]
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "3",
+              "alert"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:3:alert"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "alert"
+            ],
+            "uid": "hue:alert"
+          },
+          "label": "Alert",
+          "description": "The alert channel allows a temporary change to the bulb’s state.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "Switch",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "0210",
+              "ecb5fa1b708d",
+              "3",
+              "effect"
+            ],
+            "uid": "hue:0210:ecb5fa1b708d:3:effect"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "effect"
+            ],
+            "uid": "hue:effect"
+          },
+          "label": "Color Loop",
+          "description": "The effect channel allows putting the bulb in a color looping mode.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "fadetime": 400,
+          "lightId": "3"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "1.88.1",
+        "modelId": "LST002",
+        "productName": "Hue lightstrip plus",
+        "uniqueId": "00:17:88:01:04:98:c1:5e-0b",
+        "vendor": "Signify Netherlands B.V."
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "0210",
+          "ecb5fa1b708d",
+          "3"
+        ],
+        "uid": "hue:0210:ecb5fa1b708d:3"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "0210"
+        ],
+        "uid": "hue:0210"
+      }
+    }
+  },
+  "hue:bridge:0017884b084f": {
+    "class": "org.openhab.core.thing.internal.BridgeImpl",
+    "value": {
+      "label": "Philips hue (10.19.4.107) lab",
+      "channels": [
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "bridge",
+              "0017884b084f",
+              "scene"
+            ],
+            "uid": "hue:bridge:0017884b084f:scene"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "scene"
+            ],
+            "uid": "hue:scene"
+          },
+          "label": "Scene",
+          "description": "The scene channel allows recalling a scene to all lights that belong to the scene.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": [],
+          "autoUpdatePolicy": "DEFAULT"
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "ipAddress": "10.19.4.107",
+          "pollingInterval": 10,
+          "sensorPollingInterval": 500,
+          "userName": "VJHSAlRaFSiSdC33aXxv9j7cIPBTZgo0KrbKvjOC"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "1951086030",
+        "macAddress": "00:17:88:4b:08:4f",
+        "modelId": "BSB002",
+        "serialNumber": "0017884b084f",
+        "vendor": "Philips"
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "bridge",
+          "0017884b084f"
+        ],
+        "uid": "hue:bridge:0017884b084f"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "bridge"
+        ],
+        "uid": "hue:bridge"
+      }
+    }
+  },
+  "hue:bridge:ecb5fa1b708d": {
+    "class": "org.openhab.core.thing.internal.BridgeImpl",
+    "value": {
+      "label": "Philips hue (192.168.1.2)",
+      "channels": [
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "hue",
+              "bridge",
+              "ecb5fa1b708d",
+              "scene"
+            ],
+            "uid": "hue:bridge:ecb5fa1b708d:scene"
+          },
+          "channelTypeUID": {
+            "segments": [
+              "hue",
+              "scene"
+            ],
+            "uid": "hue:scene"
+          },
+          "label": "Scene",
+          "description": "The scene channel allows recalling a scene to all lights that belong to the scene.",
+          "configuration": {
+            "properties": {}
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {
+          "ipAddress": "192.168.1.2",
+          "pollingInterval": 10,
+          "port": 80,
+          "sensorPollingInterval": 500,
+          "userName": "79-MuU8CCAI4hmt3eaCkFM2tU0H1sgUK4ulaPH6a"
+        }
+      },
+      "properties": {
+        "firmwareVersion": "1951086030",
+        "macAddress": "ec:b5:fa:1b:70:8d",
+        "modelId": "BSB002",
+        "protocol": "http",
+        "serialNumber": "ecb5fa1b708d",
+        "vendor": "Philips"
+      },
+      "uid": {
+        "segments": [
+          "hue",
+          "bridge",
+          "ecb5fa1b708d"
+        ],
+        "uid": "hue:bridge:ecb5fa1b708d"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "bridge"
+        ],
+        "uid": "hue:bridge"
+      }
+    }
+  }
+}

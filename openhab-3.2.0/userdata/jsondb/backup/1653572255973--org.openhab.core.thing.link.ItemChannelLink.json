@@ -1,0 +1,40 @@
+{
+  "Huecolorlamp1_Color -\u003e hue:0210:0017884b084f:6:color": {
+    "class": "org.openhab.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "hue",
+          "0210",
+          "0017884b084f",
+          "6",
+          "color"
+        ],
+        "uid": "hue:0210:0017884b084f:6:color"
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "Huecolorlamp1_Color"
+    }
+  },
+  "Huecolorlamp1_Color_Temperature -\u003e hue:0210:0017884b084f:6:color_temperature": {
+    "class": "org.openhab.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "hue",
+          "0210",
+          "0017884b084f",
+          "6",
+          "color_temperature"
+        ],
+        "uid": "hue:0210:0017884b084f:6:color_temperature"
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "Huecolorlamp1_Color_Temperature"
+    }
+  }
+}

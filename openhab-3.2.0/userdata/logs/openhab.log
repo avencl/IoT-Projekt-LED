@@ -1,0 +1,168 @@
+2022-05-24 11:40:54.242 [INFO ] [.core.internal.i18n.I18nProviderImpl] - Time zone set to 'Europe/Zagreb'.
+2022-05-24 11:40:54.248 [INFO ] [.core.internal.i18n.I18nProviderImpl] - Location set to '45.8391922,15.9286777'.
+2022-05-24 11:40:54.249 [INFO ] [.core.internal.i18n.I18nProviderImpl] - Locale set to 'en_GB'.
+2022-05-24 11:40:56.034 [INFO ] [.core.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2022-05-24 11:40:56.100 [WARN ] [.transport.servlet.ServletController] - Can't find the request for http://localhost:8080/rest/events/states/0f85e2cc-e846-4dfe-8194-54d03748e5f8's Observer 
+2022-05-24 11:40:56.474 [INFO ] [org.openhab.ui.internal.UIService   ] - Started UI on port 8080
+2022-05-24 11:40:56.589 [INFO ] [ab.ui.habpanel.internal.HABPanelTile] - Started HABPanel at /habpanel
+2022-05-24 11:41:04.311 [INFO ] [e.automation.internal.RuleEngineImpl] - Rule engine started.
+2022-05-24 11:41:23.101 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:26.098 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:27.100 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:27.648 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:28.101 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:28.183 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:28.719 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:29.260 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:29.803 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:30.338 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:30.876 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:31.420 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:31.963 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:32.514 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:33.047 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:33.576 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:34.109 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:34.643 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:35.175 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:35.705 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:36.128 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:36.243 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:36.790 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:37.324 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:37.854 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:38.386 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:38.919 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:39.454 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:39.996 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:40.529 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:41.061 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:41.595 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:42.128 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:42.664 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:43.196 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:43.734 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:44.267 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:44.801 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:45.337 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 192.168.1.2 - please press the pairing button on the bridge.
+2022-05-24 11:41:45.367 [INFO ] [ue.internal.handler.HueBridgeHandler] - User has been successfully added to Hue bridge.
+2022-05-24 11:41:46.187 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:ecb5fa1b708d:1' to inbox.
+2022-05-24 11:41:46.187 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:ecb5fa1b708d:2' to inbox.
+2022-05-24 11:41:46.188 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:ecb5fa1b708d:3' to inbox.
+2022-05-24 11:41:46.217 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:group:ecb5fa1b708d:0' to inbox.
+2022-05-24 11:41:46.218 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:group:ecb5fa1b708d:1' to inbox.
+2022-05-24 11:41:46.219 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:group:ecb5fa1b708d:3' to inbox.
+2022-05-24 11:44:05.518 [WARN ] [e.internal.SseItemStatesEventBuilder] - Attempting to send a state update of an item which doesn't exist: undefined
+2022-05-24 11:44:19.989 [WARN ] [e.internal.SseItemStatesEventBuilder] - Attempting to send a state update of an item which doesn't exist: undefined
+2022-05-25 14:54:35.141 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] - Exception sending datagram to: /239.255.255.250: java.io.IOException: Can't assign requested address
+java.io.IOException: Can't assign requested address
+	at java.net.PlainDatagramSocketImpl.send0(Native Method) ~[?:?]
+	at java.net.AbstractPlainDatagramSocketImpl.send(AbstractPlainDatagramSocketImpl.java:155) ~[?:?]
+	at java.net.DatagramSocket.send(DatagramSocket.java:705) ~[?:?]
+	at org.jupnp.transport.impl.DatagramIOImpl.send(DatagramIOImpl.java:156) [bundleFile:?]
+	at org.jupnp.transport.impl.DatagramIOImpl.send(DatagramIOImpl.java:149) [bundleFile:?]
+	at org.jupnp.transport.RouterImpl.send(RouterImpl.java:300) [bundleFile:?]
+	at org.jupnp.protocol.async.SendingSearch.execute(SendingSearch.java:90) [bundleFile:?]
+	at org.jupnp.protocol.SendingAsync.run(SendingAsync.java:52) [bundleFile:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+2022-05-25 14:54:35.160 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] -   Details: datagram.socketAddress=/239.255.255.250:1900, length=94, offfset=0, data.bytes=94
+2022-05-25 14:54:35.161 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] -   Details: socket=false, closed=true, bound=null, inetAddress=null, remoteSocketAddress=name:0.0.0.0, networkInterface=java.net.MulticastSocket@fcc2840
+2022-05-25 14:54:35.672 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] - Exception sending datagram to: /239.255.255.250: java.io.IOException: Can't assign requested address
+java.io.IOException: Can't assign requested address
+	at java.net.PlainDatagramSocketImpl.send0(Native Method) ~[?:?]
+	at java.net.AbstractPlainDatagramSocketImpl.send(AbstractPlainDatagramSocketImpl.java:155) ~[?:?]
+	at java.net.DatagramSocket.send(DatagramSocket.java:705) ~[?:?]
+	at org.jupnp.transport.impl.DatagramIOImpl.send(DatagramIOImpl.java:156) [bundleFile:?]
+	at org.jupnp.transport.impl.DatagramIOImpl.send(DatagramIOImpl.java:149) [bundleFile:?]
+	at org.jupnp.transport.RouterImpl.send(RouterImpl.java:300) [bundleFile:?]
+	at org.jupnp.protocol.async.SendingSearch.execute(SendingSearch.java:90) [bundleFile:?]
+	at org.jupnp.protocol.SendingAsync.run(SendingAsync.java:52) [bundleFile:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+2022-05-25 14:54:35.675 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] -   Details: datagram.socketAddress=/239.255.255.250:1900, length=94, offfset=0, data.bytes=94
+2022-05-25 14:54:35.675 [ERROR] [.jupnp.transport.impl.DatagramIOImpl] -   Details: socket=false, closed=true, bound=null, inetAddress=null, remoteSocketAddress=name:0.0.0.0, networkInterface=java.net.MulticastSocket@fcc2840
+2022-05-26 15:31:45.801 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:bridge:0017884b084f' to inbox.
+2022-05-26 15:32:34.591 [WARN ] [e.internal.SseItemStatesEventBuilder] - Attempting to send a state update of an item which doesn't exist: undefined
+2022-05-26 15:34:44.861 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:47.872 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:48.875 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:49.458 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:49.866 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:50.008 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:50.549 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:51.102 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:51.658 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:52.212 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:52.784 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:53.358 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:53.919 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:54.530 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:55.118 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:55.685 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:56.238 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:56.776 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:57.339 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:57.876 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:57.925 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:58.411 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:58.959 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:34:59.504 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:00.055 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:00.635 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:01.182 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:01.728 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:02.286 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:02.821 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:03.355 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:03.910 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:04.546 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:05.082 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:05.648 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:06.231 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:06.829 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:07.435 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:07.974 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:08.009 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:08.557 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:09.095 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:09.670 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:10.202 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:10.741 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:11.323 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:11.898 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:12.502 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:13.058 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:13.626 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:14.179 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:14.722 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:15.255 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:15.789 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:16.387 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:16.998 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:17.612 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:18.022 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:18.186 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:18.775 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:19.368 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:19.912 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:20.462 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:21.014 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:21.582 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:22.140 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:22.689 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:23.275 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:23.860 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:24.458 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:25.002 [INFO ] [ue.internal.handler.HueBridgeHandler] - Creating new user on Hue bridge 10.19.4.107 - please press the pairing button on the bridge.
+2022-05-26 15:35:25.076 [INFO ] [ue.internal.handler.HueBridgeHandler] - User has been successfully added to Hue bridge.
+2022-05-26 15:35:28.137 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:0017884b084f:6' to inbox.
+2022-05-26 15:35:28.139 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:0017884b084f:7' to inbox.
+2022-05-26 15:35:28.140 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:0017884b084f:8' to inbox.
+2022-05-26 15:35:28.141 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:0210:0017884b084f:10' to inbox.
+2022-05-26 15:35:28.177 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:group:0017884b084f:0' to inbox.
+2022-05-26 15:35:28.178 [INFO ] [g.discovery.internal.PersistentInbox] - Added new thing 'hue:group:0017884b084f:1' to inbox.
+2022-05-26 15:39:06.056 [WARN ] [e.internal.SseItemStatesEventBuilder] - Attempting to send a state update of an item which doesn't exist: undefined
+2022-05-26 15:57:21.013 [WARN ] [e.internal.SseItemStatesEventBuilder] - Attempting to send a state update of an item which doesn't exist: undefined

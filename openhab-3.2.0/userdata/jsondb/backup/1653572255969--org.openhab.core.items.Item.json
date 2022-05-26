@@ -1,0 +1,44 @@
+{
+  "Huecolorlamp1": {
+    "class": "org.openhab.core.items.ManagedItemProvider$PersistedItem",
+    "value": {
+      "groupNames": [],
+      "itemType": "Group",
+      "tags": [
+        "Equipment"
+      ],
+      "label": "Hue color lamp 1",
+      "category": ""
+    }
+  },
+  "Huecolorlamp1_Color": {
+    "class": "org.openhab.core.items.ManagedItemProvider$PersistedItem",
+    "value": {
+      "groupNames": [
+        "Huecolorlamp1"
+      ],
+      "itemType": "Color",
+      "tags": [
+        "Control",
+        "Light"
+      ],
+      "label": "Color",
+      "category": "ColorLight"
+    }
+  },
+  "Huecolorlamp1_Color_Temperature": {
+    "class": "org.openhab.core.items.ManagedItemProvider$PersistedItem",
+    "value": {
+      "groupNames": [
+        "Huecolorlamp1"
+      ],
+      "itemType": "Dimmer",
+      "tags": [
+        "ColorTemperature",
+        "Control"
+      ],
+      "label": "Color Temperature",
+      "category": "ColorLight"
+    }
+  }
+}

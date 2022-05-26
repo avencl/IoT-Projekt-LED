@@ -1,0 +1,82 @@
+2022-05-24 11:41:23.056 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:bridge:ecb5fa1b708d' has been removed.
+2022-05-24 11:41:23.070 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from UNINITIALIZED to INITIALIZING
+2022-05-24 11:41:23.076 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from INITIALIZING to UNKNOWN
+2022-05-24 11:41:23.115 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from UNKNOWN to OFFLINE (CONFIGURATION_ERROR): Not authenticated. Press pairing button on the Hue bridge or set a valid user name in configuration.
+2022-05-24 11:41:45.392 [INFO ] [openhab.event.ConfigStatusInfoEvent ] - ConfigStatusInfo [configStatusMessages=[]]
+2022-05-24 11:41:45.967 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from OFFLINE (CONFIGURATION_ERROR): Not authenticated. Press pairing button on the Hue bridge or set a valid user name in configuration. to ONLINE
+2022-05-24 11:41:46.187 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:1' has been added.
+2022-05-24 11:41:46.187 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:2' has been added.
+2022-05-24 11:41:46.188 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:3' has been added.
+2022-05-24 11:41:46.217 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:0' has been added.
+2022-05-24 11:41:46.218 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:1' has been added.
+2022-05-24 11:41:46.219 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:3' has been added.
+2022-05-24 11:42:37.656 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:1' has been removed.
+2022-05-24 11:42:37.667 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from UNINITIALIZED to INITIALIZING
+2022-05-24 11:42:37.672 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from INITIALIZING to ONLINE
+2022-05-24 11:42:40.931 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:2' has been removed.
+2022-05-24 11:42:40.942 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from UNINITIALIZED to INITIALIZING
+2022-05-24 11:42:40.948 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from INITIALIZING to ONLINE
+2022-05-24 11:42:43.912 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:ecb5fa1b708d:3' has been removed.
+2022-05-24 11:42:43.914 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from UNINITIALIZED to INITIALIZING
+2022-05-24 11:42:43.919 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from INITIALIZING to ONLINE
+2022-05-24 12:46:16.349 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from ONLINE to OFFLINE: Hue bridge connection lost.
+2022-05-24 12:46:16.353 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-24 12:46:16.354 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-24 12:46:16.358 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-25 12:28:55.440 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from OFFLINE: Hue bridge connection lost. to ONLINE
+2022-05-25 12:28:55.447 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-25 12:28:55.448 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-25 12:28:55.448 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-25 13:15:39.985 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from ONLINE to OFFLINE: Hue bridge connection lost.
+2022-05-25 13:15:39.990 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-25 13:15:39.990 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-25 13:15:39.991 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-25 22:52:12.122 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from OFFLINE: Hue bridge connection lost. to ONLINE
+2022-05-25 22:52:12.127 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-25 22:52:12.128 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-25 22:52:12.128 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-26 09:43:23.677 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from ONLINE to OFFLINE: Hue bridge connection lost.
+2022-05-26 09:43:23.680 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 09:43:23.681 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 09:43:23.681 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 09:58:29.279 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from OFFLINE: Hue bridge connection lost. to ONLINE
+2022-05-26 09:58:29.281 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-26 09:58:29.282 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-26 09:58:29.282 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from OFFLINE (BRIDGE_OFFLINE) to ONLINE
+2022-05-26 10:17:37.413 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:ecb5fa1b708d' changed from ONLINE to OFFLINE: Hue bridge connection lost.
+2022-05-26 10:17:37.421 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:1' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 10:17:37.421 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:2' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 10:17:37.422 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:ecb5fa1b708d:3' changed from ONLINE to OFFLINE (BRIDGE_OFFLINE)
+2022-05-26 15:31:45.801 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:bridge:0017884b084f' has been added.
+2022-05-26 15:34:24.980 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:3' has been removed.
+2022-05-26 15:34:24.981 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:0' has been removed.
+2022-05-26 15:34:24.982 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:group:ecb5fa1b708d:1' has been removed.
+2022-05-26 15:34:44.834 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:bridge:0017884b084f' has been removed.
+2022-05-26 15:34:44.837 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from UNINITIALIZED to INITIALIZING
+2022-05-26 15:34:44.847 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from INITIALIZING to UNKNOWN
+2022-05-26 15:34:44.894 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from UNKNOWN to OFFLINE (CONFIGURATION_ERROR): Not authenticated. Press pairing button on the Hue bridge or set a valid user name in configuration.
+2022-05-26 15:35:25.082 [INFO ] [openhab.event.ConfigStatusInfoEvent ] - ConfigStatusInfo [configStatusMessages=[]]
+2022-05-26 15:35:25.688 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from OFFLINE (CONFIGURATION_ERROR): Not authenticated. Press pairing button on the Hue bridge or set a valid user name in configuration. to ONLINE
+2022-05-26 15:35:28.139 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:0017884b084f:6' has been added.
+2022-05-26 15:35:28.140 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:0017884b084f:7' has been added.
+2022-05-26 15:35:28.140 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:0017884b084f:8' has been added.
+2022-05-26 15:35:28.143 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:0210:0017884b084f:10' has been added.
+2022-05-26 15:35:28.177 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:group:0017884b084f:0' has been added.
+2022-05-26 15:35:28.178 [INFO ] [openhab.event.InboxAddedEvent       ] - Discovery Result with UID 'hue:group:0017884b084f:1' has been added.
+2022-05-26 15:35:41.712 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from ONLINE to UNKNOWN
+2022-05-26 15:35:41.713 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:bridge:0017884b084f' changed from UNKNOWN to ONLINE
+2022-05-26 15:36:07.870 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:0017884b084f:6' has been removed.
+2022-05-26 15:36:07.879 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:6' changed from UNINITIALIZED to INITIALIZING
+2022-05-26 15:36:07.885 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:6' changed from INITIALIZING to OFFLINE: Hue bridge reports light as not reachable.
+2022-05-26 15:36:07.885 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:6' changed from OFFLINE: Hue bridge reports light as not reachable. to ONLINE
+2022-05-26 15:36:14.469 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:0017884b084f:7' has been removed.
+2022-05-26 15:36:14.471 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:7' changed from UNINITIALIZED to INITIALIZING
+2022-05-26 15:36:14.478 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:7' changed from INITIALIZING to OFFLINE: Hue bridge reports light as not reachable.
+2022-05-26 15:36:14.479 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:7' changed from OFFLINE: Hue bridge reports light as not reachable. to ONLINE
+2022-05-26 15:36:17.458 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:0017884b084f:8' has been removed.
+2022-05-26 15:36:17.469 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:8' changed from UNINITIALIZED to INITIALIZING
+2022-05-26 15:36:17.474 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:8' changed from INITIALIZING to OFFLINE: Hue bridge reports light as not reachable.
+2022-05-26 15:36:17.475 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:8' changed from OFFLINE: Hue bridge reports light as not reachable. to ONLINE
+2022-05-26 15:36:20.338 [INFO ] [openhab.event.InboxRemovedEvent     ] - Discovery Result with UID 'hue:0210:0017884b084f:10' has been removed.
+2022-05-26 15:36:20.339 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:10' changed from UNINITIALIZED to INITIALIZING
+2022-05-26 15:36:20.351 [INFO ] [ab.event.ThingStatusInfoChangedEvent] - Thing 'hue:0210:0017884b084f:10' changed from INITIALIZING to ONLINE

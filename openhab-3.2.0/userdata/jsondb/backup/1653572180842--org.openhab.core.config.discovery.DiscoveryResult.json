@@ -1,0 +1,76 @@
+{
+  "hue:group:0017884b084f:0": {
+    "class": "org.openhab.core.config.discovery.internal.DiscoveryResultImpl",
+    "value": {
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "0017884b084f"
+        ],
+        "uid": "hue:bridge:0017884b084f"
+      },
+      "thingUID": {
+        "segments": [
+          "hue",
+          "group",
+          "0017884b084f",
+          "0"
+        ],
+        "uid": "hue:group:0017884b084f:0"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "group"
+        ],
+        "uid": ""
+      },
+      "properties": {
+        "groupId": "0"
+      },
+      "representationProperty": "groupId",
+      "flag": "NEW",
+      "label": "All lights",
+      "timestamp": 1653572128176,
+      "timeToLive": -1
+    }
+  },
+  "hue:group:0017884b084f:1": {
+    "class": "org.openhab.core.config.discovery.internal.DiscoveryResultImpl",
+    "value": {
+      "bridgeUID": {
+        "segments": [
+          "hue",
+          "bridge",
+          "0017884b084f"
+        ],
+        "uid": "hue:bridge:0017884b084f"
+      },
+      "thingUID": {
+        "segments": [
+          "hue",
+          "group",
+          "0017884b084f",
+          "1"
+        ],
+        "uid": "hue:group:0017884b084f:1"
+      },
+      "thingTypeUID": {
+        "segments": [
+          "hue",
+          "group"
+        ],
+        "uid": ""
+      },
+      "properties": {
+        "groupId": "1"
+      },
+      "representationProperty": "groupId",
+      "flag": "NEW",
+      "label": "IoT lab",
+      "timestamp": 1653572128178,
+      "timeToLive": -1
+    }
+  }
+}
